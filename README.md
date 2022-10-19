@@ -15,7 +15,8 @@ This is a solution to the [Build a Technical Documentation Page](https://www.fre
   * Semantic HTML
 * **CSS**
   * Responsive design
-* **Github Pages** - for hosting
+* **Github Pages**
+  * Hosting
 
 ## 💡 Features
 

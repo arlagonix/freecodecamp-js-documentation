@@ -1,4 +1,7 @@
-# JS Documentation
+<h1 align="center">JS Documentation</h1>
+<p align="center">
+  Coded with <code>HTML</code>, <code>CSS</code>
+</p>
 
 ## ℹ️ About
   
